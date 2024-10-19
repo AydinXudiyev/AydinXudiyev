@@ -1,7 +1,4 @@
 # Aydin Khudiyev
-
-![Profile Picture](https://via.placeholder.com/150)
-
 ## About Me
 Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of **Data Science** for 2 years. I specialize in projects related to **Machine Learning** and **Deep Learning**. Additionally, I am involved in **Automation** and enjoy working with various libraries in this domain.
 
