@@ -1,6 +1,6 @@
 # 📊 Aydin Khudiyev - Data Scientist
 
-![Data Science Animation](https://media.giphy.com/media/xT0xeJpnrLKf5Aqg1O/giphy.gif)
+![Data Science Banner](https://miro.medium.com/v2/resize:fit:800/format:webp/1*4_pWDrd81Q7Kv6q_wUKt0w.png)
 
 Hello! I'm **Aydin Khudiyev**, a passionate Data Scientist with 2 years of experience in the field. My journey in data science has led me to explore various domains, particularly in machine learning and deep learning projects, as well as automation.
 
@@ -26,62 +26,52 @@ Hello! I'm **Aydin Khudiyev**, a passionate Data Scientist with 2 years of exper
 ## 🛠️ Projects Overview
 
 ### 1. Machine Learning Projects
-![Machine Learning Animation](https://media.giphy.com/media/26xBKI2fW5xkfjRHK/giphy.gif)
-![Machine Learning Image](https://miro.medium.com/v2/resize:fit:800/format:webp/1*1C9pe26LZYz4OeG8Jj43Xw.png)
+![Machine Learning](https://miro.medium.com/v2/resize:fit:720/format:webp/1*stWYfdi0JUr0L8h5BQHE1Q.png)
 - Developed predictive models using various algorithms (e.g., regression, classification).
 - Implemented deep learning solutions for image and text data.
 
 ### 2. Data Automation
-![Data Automation Animation](https://media.giphy.com/media/3o85xI4P4R60L7vGB6/giphy.gif)
-![Data Automation Image](https://cdn.pixabay.com/photo/2018/05/07/14/16/automation-3382096_1280.png)
+![Data Automation](https://www.cloudways.com/blog/wp-content/uploads/2021/01/python-web-scraping.png)
 - Automated data extraction and transformation processes using Python and Selenium.
 - Created scripts for data cleaning and preprocessing.
 
 ### 3. Data Visualization with Power BI
-![Data Visualization Animation](https://media.giphy.com/media/l0MYLPz8izl30pN1m/giphy.gif)
-![Data Visualization Image](https://cdn.pixabay.com/photo/2020/01/24/10/12/data-3962893_1280.png)
+![Data Visualization](https://powerbi.microsoft.com/en-us/blog/wp-content/uploads/sites/3/2020/06/pbi-gifs-blog-feature-image-12.gif)
 - Designed interactive dashboards to visualize data insights.
 - Analyzed datasets and presented findings using Power BI for stakeholder reporting.
 
 ### 4. Data Analysis
-![Data Analysis Animation](https://media.giphy.com/media/l0MYuK3U0lOf3h4v6/giphy.gif)
-![Data Analysis Image](https://cdn.pixabay.com/photo/2020/01/24/10/13/analyze-3962885_1280.png)
+![Data Analysis](https://miro.medium.com/v2/resize:fit:720/format:webp/1*VjAsqLZUSZTEV7a3MEoj-Q.png)
 - Conducted exploratory data analysis (EDA) to uncover trends and patterns.
 - Utilized statistical methods to derive insights from complex datasets.
 
 ### 5. Deep Learning Models
-![Deep Learning Animation](https://media.giphy.com/media/3o7btYFm7Zwbtfo0OC/giphy.gif)
-![Deep Learning Image](https://cdn.pixabay.com/photo/2018/05/07/12/43/neural-networks-3381987_1280.png)
+![Deep Learning](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Bt6O5PrwZCBxiYdF7g5uHg.png)
 - Developed and trained neural networks for various applications.
 - Fine-tuned hyperparameters for optimal model performance.
 
 ### 6. Web Scraping
-![Web Scraping Animation](https://media.giphy.com/media/3o7btYFm7Zwbtfo0OC/giphy.gif)
-![Web Scraping Image](https://cdn.pixabay.com/photo/2017/08/30/09/01/code-2693100_1280.png)
+![Web Scraping](https://miro.medium.com/v2/resize:fit:720/format:webp/1*9WwRzVBZbW7PZ4Gk6u58bA.png)
 - Built automated scripts to scrape data from websites.
 - Parsed and cleaned data for further analysis.
 
 ### 7. SQL Database Management
-![SQL Animation](https://media.giphy.com/media/l0MYGx2s1BFGDgE5C/giphy.gif)
-![SQL Image](https://cdn.pixabay.com/photo/2020/01/24/10/14/sql-3962889_1280.png)
+![SQL Database Management](https://miro.medium.com/v2/resize:fit:720/format:webp/1*dhA_qQSrJ3oFs1RtnbQxgQ.png)
 - Managed databases and performed complex queries using SQL.
 - Integrated SQL with Python for data extraction and manipulation.
 
 ### 8. Time Series Analysis
-![Time Series Animation](https://media.giphy.com/media/l0MYuJFlZcy8mA2N2/giphy.gif)
-![Time Series Image](https://cdn.pixabay.com/photo/2020/01/24/10/13/data-3962884_1280.png)
+![Time Series Analysis](https://miro.medium.com/v2/resize:fit:720/format:webp/1*3gytPxF4aBISZ8OpIPq4QQ.png)
 - Analyzed time series data for forecasting and trend analysis.
 - Implemented models to predict future values based on historical data.
 
 ### 9. Data Cleaning
-![Data Cleaning Animation](https://media.giphy.com/media/xUOxf56c9ihUBqX93O/giphy.gif)
-![Data Cleaning Image](https://cdn.pixabay.com/photo/2019/03/06/10/24/data-4040814_1280.png)
+![Data Cleaning](https://miro.medium.com/v2/resize:fit:720/format:webp/1*9CRW8AhG8FW9lf9hN56N9w.png)
 - Developed processes to clean and preprocess data for analysis.
 - Managed missing values and outlier detection to improve data quality.
 
 ### 10. Feature Engineering
-![Feature Engineering Animation](https://media.giphy.com/media/l0MYt3uEjAzzFzsoE/giphy.gif)
-![Feature Engineering Image](https://cdn.pixabay.com/photo/2020/01/24/10/13/data-3962883_1280.png)
+![Feature Engineering](https://miro.medium.com/v2/resize:fit:720/format:webp/1*G40ci7ZzI0xJqa6QpG38vw.png)
 - Created new features to enhance model performance.
 - Applied domain knowledge to derive meaningful insights from raw data.
 
