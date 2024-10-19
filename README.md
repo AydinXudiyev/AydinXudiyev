@@ -21,7 +21,7 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
   - BeautifulSoup
 
 - **Business Intelligence:**
-  - ![Power BI](https://upload.wikimedia.org/wikipedia/commons/0/0f/Power_BI_Logo.png) [Power BI](https://powerbi.microsoft.com/)
+- ![Power BI](https://upload.wikimedia.org/wikipedia/commons/0/0f/Power_BI_Logo.png) [Power BI](https://powerbi.microsoft.com/)
 
 ## Projects
 Here are a few examples of the types of projects I've worked on:
