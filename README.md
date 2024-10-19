@@ -1,58 +1,98 @@
-# 📊 Data Science Projects
+# 📊 Aydin Khudiyev - Data Scientist
 
 ![Data Science Animation](https://media.giphy.com/media/xT0xeJpnrLKf5Aqg1O/giphy.gif)
 
-Welcome to my **Data Science Projects** repository! Here, you'll find a collection of various data science projects showcasing my skills and knowledge in the field.
+Hello! I'm **Aydin Khudiyev**, a passionate Data Scientist with 2 years of experience in the field. My journey in data science has led me to explore various domains, particularly in machine learning and deep learning projects, as well as automation.
 
-## 🚀 Projects Overview
+## 🚀 About Me
 
-### 1. Pizza Order Automation
-- **Description**: Automated the pizza ordering process using Selenium WebDriver.
-- **Technologies Used**: Python, Selenium, HTML/CSS.
-- **Features**:
-  - Order placement automation.
-  - Validation of success and error messages.
-  - Screenshot capture of order details.
-
-### 2. Wine Quality Analysis
-- **Description**: Analyzed the quality of wines based on various chemical properties.
-- **Technologies Used**: Python, Pandas, Matplotlib, Scikit-Learn.
-- **Key Findings**:
-  - Identified key factors affecting wine quality.
-  - Built predictive models using regression techniques.
-
-### 3. Customer Segmentation
-- **Description**: Performed customer segmentation for a retail business.
-- **Technologies Used**: Python, K-Means Clustering, Seaborn.
-- **Highlights**:
-  - Utilized clustering algorithms to group customers based on purchasing behavior.
-  - Visualized segments to provide actionable insights for marketing strategies.
-
-## 🛠️ Technologies & Tools
-
-- **Languages**: Python, R
-- **Libraries**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-- **Tools**: Jupyter Notebook, Git, SQL
-- **Areas of Interest**: Machine Learning, Data Visualization, Statistical Analysis
-
-## 📚 Background
-
-I am passionate about data science and analytics. I have experience in extracting insights from data, building predictive models, and visualizing complex datasets to facilitate decision-making.
-
-### 🌟 Personal Information
 - **Name**: Aydin Khudiyev
-- **Role**: Data Scientist
-- **Location**: [Your Location]
-- **Contact**: [Your Email or LinkedIn]
+- **Experience**: 2 years in Data Science
+- **Interests**: Machine Learning, Deep Learning, Data Automation, Data Visualization
 
-## 📝 How to Run Projects
+### 🌟 Key Skills
+
+- **Programming Languages**: Python, SQL
+- **Libraries**: 
+  - **Data Science**: Pandas, NumPy, Scikit-Learn
+  - **Machine Learning**: TensorFlow, Keras, PyTorch
+  - **Data Visualization**: Matplotlib, Seaborn, Power BI
+- **Automation Tools**: Selenium, Beautiful Soup
+
+## 🛠️ Projects Overview
+
+### 1. Machine Learning Projects
+![Machine Learning Animation](https://media.giphy.com/media/26xBKI2fW5xkfjRHK/giphy.gif)
+- Developed predictive models using various algorithms (e.g., regression, classification).
+- Implemented deep learning solutions for image and text data.
+
+### 2. Data Automation
+![Data Automation Animation](https://media.giphy.com/media/3o85xI4P4R60L7vGB6/giphy.gif)
+- Automated data extraction and transformation processes using Python and Selenium.
+- Created scripts for data cleaning and preprocessing.
+
+### 3. Data Visualization with Power BI
+![Data Visualization Animation](https://media.giphy.com/media/l0MYLPz8izl30pN1m/giphy.gif)
+- Designed interactive dashboards to visualize data insights.
+- Analyzed datasets and presented findings using Power BI for stakeholder reporting.
+
+### 4. Data Analysis
+![Data Analysis Animation](https://media.giphy.com/media/l0MYuK3U0lOf3h4v6/giphy.gif)
+- Conducted exploratory data analysis (EDA) to uncover trends and patterns.
+- Utilized statistical methods to derive insights from complex datasets.
+
+### 5. Deep Learning Models
+![Deep Learning Animation](https://media.giphy.com/media/3o7btYFm7Zwbtfo0OC/giphy.gif)
+- Developed and trained neural networks for various applications.
+- Fine-tuned hyperparameters for optimal model performance.
+
+### 6. Web Scraping
+![Web Scraping Animation](https://media.giphy.com/media/3o7btYFm7Zwbtfo0OC/giphy.gif)
+- Built automated scripts to scrape data from websites.
+- Parsed and cleaned data for further analysis.
+
+### 7. SQL Database Management
+![SQL Animation](https://media.giphy.com/media/l0MYGx2s1BFGDgE5C/giphy.gif)
+- Managed databases and performed complex queries using SQL.
+- Integrated SQL with Python for data extraction and manipulation.
+
+### 8. Time Series Analysis
+![Time Series Animation](https://media.giphy.com/media/l0MYuJFlZcy8mA2N2/giphy.gif)
+- Analyzed time series data for forecasting and trend analysis.
+- Implemented models to predict future values based on historical data.
+
+### 9. Data Cleaning
+![Data Cleaning Animation](https://media.giphy.com/media/xUOxf56c9ihUBqX93O/giphy.gif)
+- Developed processes to clean and preprocess data for analysis.
+- Managed missing values and outlier detection to improve data quality.
+
+### 10. Feature Engineering
+![Feature Engineering Animation](https://media.giphy.com/media/l0MYt3uEjAzzFzsoE/giphy.gif)
+- Created new features to enhance model performance.
+- Applied domain knowledge to derive meaningful insights from raw data.
+
+## 📚 Tools & Technologies
+
+- **Languages**: 
+  - Python: For data manipulation and machine learning tasks.
+  - SQL: For querying and managing relational databases.
+- **Data Libraries**: 
+  - **Pandas**: Data manipulation and analysis.
+  - **NumPy**: Numerical computing.
+  - **Matplotlib & Seaborn**: Data visualization.
+  - **Power BI**: For creating reports and dashboards.
+- **Machine Learning Frameworks**: 
+  - **TensorFlow & Keras**: For deep learning projects.
+  - **Scikit-Learn**: For classical machine learning algorithms.
+
+## 📄 How to Run Projects
 
 1. Clone the repository:
     ```bash
     git clone https://github.com/yourusername/data-science-projects.git
     ```
 
-2. Change to the project directory:
+2. Navigate to the project directory:
     ```bash
     cd data-science-projects
     ```
@@ -66,7 +106,7 @@ I am passionate about data science and analytics. I have experience in extractin
 
 ## 🤝 Contributing
 
-I welcome contributions and collaborations! If you have suggestions or improvements, please fork the repository and submit a pull request.
+I welcome collaborations and contributions! Feel free to fork the repository and submit pull requests for any improvements or new features.
 
 ## 📄 License
 
@@ -74,7 +114,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🤔 Questions or Support?
 
-If you have any questions or need support, feel free to reach out via [Your Email] or open an issue in this repository.
+If you have any questions or need assistance, feel free to reach out via [Your Email] or open an issue in this repository.
 
 ---
 
