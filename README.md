@@ -31,8 +31,8 @@ Here are a few examples of the types of projects I've worked on:
 
 ## Contact
 Feel free to reach out to me for collaboration or questions:
-- **Email:** [your_email@example.com](mailto:your_email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email:** [aydinxudiyev75@gmail.com](mailto:aydinxudiyev75@gmail.com)
+- **LinkedIn:** [Aydin Xudiyev](https://www.linkedin.com/in/aydin-xudiyev-19091b210)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
