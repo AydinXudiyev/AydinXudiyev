@@ -1,6 +1,6 @@
 # 📊 Aydin Khudiyev - Data Scientist
 
-![Data Science Banner](https://www.analyticsinsight.net/wp-content/uploads/2022/10/Data-Science-banner.png)
+![Data Science Banner](https://images.unsplash.com/photo-1562698230-bc18c8960a32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDN8fGRhdGEyJTIwYmFubmVyfGVufDB8fHx8MTY4MzM3ODc3Ng&ixlib=rb-1.2.1&q=80&w=1080)
 
 Hello! I'm **Aydin Khudiyev**, a passionate Data Scientist with 2 years of experience in the field. My journey in data science has led me to explore various domains, particularly in machine learning and deep learning projects, as well as automation.
 
@@ -14,14 +14,14 @@ Hello! I'm **Aydin Khudiyev**, a passionate Data Scientist with 2 years of exper
 
 - **Programming Languages**: Python, SQL
 - **Libraries**: 
-  - ![Pandas](https://pandas.pydata.org/assets/images/pandas.svg) **Pandas**: Data manipulation and analysis.
-  - ![NumPy](https://numpy.org/images/logo.svg) **NumPy**: Numerical computing.
-  - ![Scikit-Learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png) **Scikit-Learn**: Classical machine learning algorithms.
-  - ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/20/TensorFlow_Logo.svg) **TensorFlow**: For deep learning projects.
-  - ![Keras](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Keras_logo.svg/512px-Keras_logo.svg.png) **Keras**: High-level neural networks API.
-  - ![Matplotlib](https://matplotlib.org/stable/_static/logo2_compressed.svg) **Matplotlib**: Data visualization.
-  - ![Seaborn](https://seaborn.pydata.org/_static/seaborn-logo-wide.svg) **Seaborn**: Statistical data visualization.
-  - ![Power BI](https://upload.wikimedia.org/wikipedia/commons/3/3e/Power_BI_Logo.png) **Power BI**: For creating reports and dashboards.
+  - **Pandas**: Data manipulation and analysis.
+  - **NumPy**: Numerical computing.
+  - **Scikit-Learn**: Classical machine learning algorithms.
+  - **TensorFlow**: For deep learning projects.
+  - **Keras**: High-level neural networks API.
+  - **Matplotlib**: Data visualization.
+  - **Seaborn**: Statistical data visualization.
+  - **Power BI**: For creating reports and dashboards.
 
 ## 🛠️ Projects Overview
 
@@ -81,14 +81,14 @@ Hello! I'm **Aydin Khudiyev**, a passionate Data Scientist with 2 years of exper
   - Python: For data manipulation and machine learning tasks.
   - SQL: For querying and managing relational databases.
 - **Data Libraries**: 
-  - ![Pandas](https://pandas.pydata.org/assets/images/pandas.svg) **Pandas**
-  - ![NumPy](https://numpy.org/images/logo.svg) **NumPy**
-  - ![Matplotlib](https://matplotlib.org/stable/_static/logo2_compressed.svg) **Matplotlib**
-  - ![Seaborn](https://seaborn.pydata.org/_static/seaborn-logo-wide.svg) **Seaborn**
-  - ![Power BI](https://upload.wikimedia.org/wikipedia/commons/3/3e/Power_BI_Logo.png) **Power BI**
+  - **Pandas**
+  - **NumPy**
+  - **Matplotlib**
+  - **Seaborn**
+  - **Power BI**
 - **Machine Learning Frameworks**: 
-  - ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/20/TensorFlow_Logo.svg) **TensorFlow**
-  - ![Keras](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Keras_logo.svg/512px-Keras_logo.svg.png) **Keras**
+  - **TensorFlow**
+  - **Keras**
 
 ## 📄 How to Run Projects
 
@@ -119,7 +119,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🤔 Questions or Support?
 
-If you have any questions or need assistance, feel free to reach out via aydinxudiyev75@gmail.com or open an issue in this repository.
+If you have any questions or need assistance, feel free to reach out via [Your Email] or open an issue in this repository.
 
 ---
 
