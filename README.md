@@ -9,19 +9,19 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
   - SQL
 
 - **Data Science Libraries:**
-  - ![Pandas](https://pandas.pydata.org/pandas-docs/stable/_static/pandas_logo.png) [Pandas](https://pandas.pydata.org/)
-  - ![NumPy](https://numpy.org/images/logo.svg) [NumPy](https://numpy.org/)
-  - ![Matplotlib](https://matplotlib.org/stable/_static/logo2.svg) [Matplotlib](https://matplotlib.org/)
-  - ![Seaborn](https://seaborn.pydata.org/_images/seaborn-logo-white.svg) [Seaborn](https://seaborn.pydata.org/)
-  - ![TensorFlow](https://www.tensorflow.org/images/tf_logo_social.png) [TensorFlow](https://www.tensorflow.org/)
-  - ![Keras](https://keras.io/img/keras_logo.png) [Keras](https://keras.io/)
+  - ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) [Pandas](https://pandas.pydata.org/)
+  - ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) [NumPy](https://numpy.org/)
+  - ![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png) [Matplotlib](https://matplotlib.org/)
+  - ![Seaborn](https://img.icons8.com/color/48/000000/seaborn.png) [Seaborn](https://seaborn.pydata.org/)
+  - ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) [TensorFlow](https://www.tensorflow.org/)
+  - ![Keras](https://img.icons8.com/color/48/000000/keras.png) [Keras](https://keras.io/)
 
 - **Automation Libraries:**
-  - Selenium
-  - BeautifulSoup
+  - ![Selenium](https://img.icons8.com/color/48/000000/selenium.png) Selenium
+  - ![BeautifulSoup](https://img.icons8.com/color/48/000000/beautiful-soup.png) BeautifulSoup
 
 - **Business Intelligence:**
-- ![Power BI](https://upload.wikimedia.org/wikipedia/commons/0/0f/Power_BI_Logo.png) [Power BI](https://powerbi.microsoft.com/)
+  - ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) [Power BI](https://powerbi.microsoft.com/)
 
 ## Projects
 Here are a few examples of the types of projects I've worked on:
@@ -32,8 +32,7 @@ Here are a few examples of the types of projects I've worked on:
 ## Contact
 Feel free to reach out to me for collaboration or questions:
 - **Email:** [aydinxudiyev75@gmail.com](mailto:aydinxudiyev75@gmail.com)
-- **LinkedIn:** [Aydin Xudiyev](https://www.linkedin.com/in/aydin-xudiyev-19091b210)
+- **LinkedIn:** [Aydin Khudiyev](https://www.linkedin.com/in/aydin-xudiyev-19091b210)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
