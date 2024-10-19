@@ -1,5 +1,7 @@
 # Aydin Khudiyev
 
+![Profile Picture](https://via.placeholder.com/150)
+
 ## About Me
 Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of **Data Science** for 2 years. I specialize in projects related to **Machine Learning** and **Deep Learning**. Additionally, I am involved in **Automation** and enjoy working with various libraries in this domain.
 
@@ -9,19 +11,25 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
   - SQL
 
 - **Data Science Libraries:**
-  - ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) [Pandas](https://pandas.pydata.org/)
-  - ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) [NumPy](https://numpy.org/)
-  - ![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png) [Matplotlib](https://matplotlib.org/)
-  - ![Seaborn](https://img.icons8.com/color/48/000000/seaborn.png) [Seaborn](https://seaborn.pydata.org/)
-  - ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) [TensorFlow](https://www.tensorflow.org/)
-  - ![Keras](https://img.icons8.com/color/48/000000/keras.png) [Keras](https://keras.io/)
+  <div style="display: flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" style="margin-right: 10px;"/>
+    <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" style="margin-right: 10px;"/>
+    <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib" style="margin-right: 10px;"/>
+    <img src="https://img.icons8.com/color/48/000000/seaborn.png" alt="Seaborn" style="margin-right: 10px;"/>
+    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" style="margin-right: 10px;"/>
+    <img src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras" style="margin-right: 10px;"/>
+  </div>
 
 - **Automation Libraries:**
-  - ![Selenium](https://img.icons8.com/color/48/000000/selenium.png) Selenium
-  - ![BeautifulSoup](https://img.icons8.com/color/48/000000/beautiful-soup.png) BeautifulSoup
+  <div style="display: flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/selenium.png" alt="Selenium" style="margin-right: 10px;"/>
+    <img src="https://img.icons8.com/color/48/000000/beautiful-soup.png" alt="BeautifulSoup" style="margin-right: 10px;"/>
+  </div>
 
 - **Business Intelligence:**
-  - ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) [Power BI](https://powerbi.microsoft.com/)
+  <div style="display: flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" style="margin-right: 10px;"/>
+  </div>
 
 ## Projects
 Here are a few examples of the types of projects I've worked on:
