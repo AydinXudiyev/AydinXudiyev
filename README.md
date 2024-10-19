@@ -14,10 +14,14 @@ Hello! I'm **Aydin Khudiyev**, a passionate Data Scientist with 2 years of exper
 
 - **Programming Languages**: Python, SQL
 - **Libraries**: 
-  - **Data Science**: Pandas, NumPy, Scikit-Learn
-  - **Machine Learning**: TensorFlow, Keras, PyTorch
-  - **Data Visualization**: Matplotlib, Seaborn, Power BI
-- **Automation Tools**: Selenium, Beautiful Soup
+  - ![Pandas](https://raw.githubusercontent.com/ogozuacik/pandas-logo/master/pandas.png) **Pandas**: Data manipulation and analysis.
+  - ![NumPy](https://numpy.org/images/logos/numpylogo.svg) **NumPy**: Numerical computing.
+  - ![Scikit-Learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png) **Scikit-Learn**: Classical machine learning algorithms.
+  - ![TensorFlow](https://www.tensorflow.org/images/tf_logo_social.png) **TensorFlow**: For deep learning projects.
+  - ![Keras](https://keras.io/img/logo.png) **Keras**: High-level neural networks API.
+  - ![Matplotlib](https://matplotlib.org/stable/_static/logo2_compressed.svg) **Matplotlib**: Data visualization.
+  - ![Seaborn](https://seaborn.pydata.org/_static/seaborn-logo-wide.svg) **Seaborn**: Statistical data visualization.
+  - ![Power BI](https://upload.wikimedia.org/wikipedia/commons/3/3e/Power_BI_Logo.png) **Power BI**: For creating reports and dashboards.
 
 ## 🛠️ Projects Overview
 
@@ -55,4 +59,78 @@ Hello! I'm **Aydin Khudiyev**, a passionate Data Scientist with 2 years of exper
 ![Web Scraping Animation](https://media.giphy.com/media/3o7btYFm7Zwbtfo0OC/giphy.gif)
 ![Web Scraping Image](https://cdn.pixabay.com/photo/2017/08/30/09/01/code-2693100_1280.png)
 - Built automated scripts to scrape data from websites.
-- Parsed and cleaned data for 
+- Parsed and cleaned data for further analysis.
+
+### 7. SQL Database Management
+![SQL Animation](https://media.giphy.com/media/l0MYGx2s1BFGDgE5C/giphy.gif)
+![SQL Image](https://cdn.pixabay.com/photo/2020/01/24/10/14/sql-3962889_1280.png)
+- Managed databases and performed complex queries using SQL.
+- Integrated SQL with Python for data extraction and manipulation.
+
+### 8. Time Series Analysis
+![Time Series Animation](https://media.giphy.com/media/l0MYuJFlZcy8mA2N2/giphy.gif)
+![Time Series Image](https://cdn.pixabay.com/photo/2020/01/24/10/13/data-3962884_1280.png)
+- Analyzed time series data for forecasting and trend analysis.
+- Implemented models to predict future values based on historical data.
+
+### 9. Data Cleaning
+![Data Cleaning Animation](https://media.giphy.com/media/xUOxf56c9ihUBqX93O/giphy.gif)
+![Data Cleaning Image](https://cdn.pixabay.com/photo/2019/03/06/10/24/data-4040814_1280.png)
+- Developed processes to clean and preprocess data for analysis.
+- Managed missing values and outlier detection to improve data quality.
+
+### 10. Feature Engineering
+![Feature Engineering Animation](https://media.giphy.com/media/l0MYt3uEjAzzFzsoE/giphy.gif)
+![Feature Engineering Image](https://cdn.pixabay.com/photo/2020/01/24/10/13/data-3962883_1280.png)
+- Created new features to enhance model performance.
+- Applied domain knowledge to derive meaningful insights from raw data.
+
+## 📚 Tools & Technologies
+
+- **Languages**: 
+  - Python: For data manipulation and machine learning tasks.
+  - SQL: For querying and managing relational databases.
+- **Data Libraries**: 
+  - ![Pandas](https://raw.githubusercontent.com/ogozuacik/pandas-logo/master/pandas.png) **Pandas**
+  - ![NumPy](https://numpy.org/images/logos/numpylogo.svg) **NumPy**
+  - ![Matplotlib](https://matplotlib.org/stable/_static/logo2_compressed.svg) **Matplotlib**
+  - ![Seaborn](https://seaborn.pydata.org/_static/seaborn-logo-wide.svg) **Seaborn**
+  - ![Power BI](https://upload.wikimedia.org/wikipedia/commons/3/3e/Power_BI_Logo.png) **Power BI**
+- **Machine Learning Frameworks**: 
+  - ![TensorFlow](https://www.tensorflow.org/images/tf_logo_social.png) **TensorFlow**
+  - ![Keras](https://keras.io/img/logo.png) **Keras**
+
+## 📄 How to Run Projects
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/data-science-projects.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd data-science-projects
+    ```
+
+3. Install the required packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. Run the Jupyter Notebook or Python script for the specific project.
+
+## 🤝 Contributing
+
+I welcome collaborations and contributions! Feel free to fork the repository and submit pull requests for any improvements or new features.
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 🤔 Questions or Support?
+
+If you have any questions or need assistance, feel free to reach out via [Your Email] or open an issue in this repository.
+
+---
+
+Happy data diving! 📈
