@@ -119,7 +119,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🤔 Questions or Support?
 
-If you have any questions or need assistance, feel free to reach out via [Your Email] or open an issue in this repository.
+If you have any questions or need assistance, feel free to reach out via aydinxudiyev75@gmail.com or open an issue in this repository.
 
 ---
 
