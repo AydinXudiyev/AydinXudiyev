@@ -40,9 +40,6 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="65" />
       <br>Python
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pandas" width="65" height="65" alt="Pandas" />
-      <br>Pandas
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="PyTorch" />
