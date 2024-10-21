@@ -7,7 +7,7 @@
 <a href="mailto:aydinxudiyev75@gmail.com" target="blank"><img align="center"
 src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg"
 alt="mailto:aydinxudiyev75@gmail.com" height="30" width="40" /></a>
-<a href="https://www.facebook.com/huseyntapdigli/" target="blank"><img align="center"
+<a href="https://www.facebook.com/AydinXudiyev/" target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
 alt="AydinXudiyev" height="30" width="40" /></a>
 <a href="https://instagram.com/aydinxs" target="blank"><img align="center"
