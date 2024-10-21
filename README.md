@@ -66,6 +66,11 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
       <img src="https://skillicons.dev/icons?i=plotly" width="65" height="65" alt="Plotly" />
       <br>Plotly
     </td>
+    </td>
+     <td align="center" width="96">
+       <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="48" height="48" alt="SQL" />
+       <br>Pandas
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=streamlit" width="65" height="65" alt="Streamlit" />
       <br>Streamlit
