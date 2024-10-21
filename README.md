@@ -62,8 +62,8 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
       <img src="https://skillicons.dev/icons?i=seaborn" width="65" height="65" alt="Seaborn" />
       <br>Seaborn
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=plotly" width="65" height="65" alt="Plotly" />
+     <td align="center" width="96">
+      <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" width="65" height="65" alt="Plotly" />
       <br>Plotly
     </td>
     <td align="center" width="96">
