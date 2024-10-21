@@ -34,72 +34,37 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
 <table align="center" style="background-color:#2e3136">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/keras-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="icon" />
-       <br>React
-    </td>
-     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="65" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="60" height="65" />
-      <br>SASS
-    </td>
-     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Redux TK
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" style="background-color:#fff"/>
-      <br>Git
-    </td>
-  </tr>
-  <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="HTML5" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="css" />
-      <br>Vite
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-      <td align="center" width="96">
-        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="48" height="48" alt="SQL" />
+      <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="48" height="48" alt="Pandas" />
       <br>Pandas
     </td>
-        <td align="center" width="96">
-        <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="48" height="48" alt="Nodejs" />
+    <td align="center" width="96">
+      <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="48" height="48" alt="NumPy" />
       <br>Numpy
-      </td>
     </td>
- </tr>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Keras_logo.svg" width="48" height="48" alt="Keras" />
+      <br>Keras
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://pytorch.org/assets/images/pytorch_logo_light.svg" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/fastai/fastai/master/fastai-logo.svg" width="48" height="48" alt="Fastai" />
+      <br>Fastai
+    </td>
+  </tr>
 </table>
-
-<br>
 
 ## Projects
 Here are a few examples of the types of projects I've worked on:
