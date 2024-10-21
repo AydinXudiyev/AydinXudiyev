@@ -78,10 +78,6 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="65" height="65" alt="Selenium" />
       <br>Selenium
     </td>
-    <td align="center" width="96">
-      <img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_static/Logo2.png" width="65" height="65" alt="Beautiful Soup" />
-      <br>Beautiful Soup
-    </td>
   </tr>
 </table> 
 
