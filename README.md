@@ -75,8 +75,9 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
       <br>TensorFlow
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=scikit-learn" width="65" height="65" alt="scikit-learn" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="65" height="65" alt="scikit-learn" />
       <br>scikit-learn
+    </td>
     </td>
     <td align="center" width="96">
       <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="65" height="65" alt="NumPy" />
