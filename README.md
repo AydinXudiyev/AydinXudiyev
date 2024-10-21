@@ -77,6 +77,9 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=numpy" width="65" height="65" alt="NumPy" />
       <br>Numpy
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=julia" width="65" height="65" alt="Julia" />
+      <br>Julia
     </td>
   </tr>
 </table>
