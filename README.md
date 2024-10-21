@@ -45,8 +45,8 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
       <br>TensorFlow
     </td>
     <td align="center" width="96">
-      <img src="https://matplotlib.org/stable/_static/images/logo2.svg" width="65" height="65" alt="Matplotlib" />
-      <br>Matplotlib
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="65" height="65" alt="Keras" />
+      <br>Keras
     </td>
     <td align="center" width="96">
       <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="48" height="48" alt="Pandas" />
