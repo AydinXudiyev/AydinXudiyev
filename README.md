@@ -67,7 +67,7 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
       <br>Plotly
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=streamlit" width="65" height="65" alt="Streamlit" />
+      <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="65" height="65" alt="Streamlit" />
       <br>Streamlit
     </td>
     <td align="center" width="96">
