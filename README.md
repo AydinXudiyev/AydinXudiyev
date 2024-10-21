@@ -31,13 +31,17 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
 
 <h3 align="left">Languages and Tools:</h3>
 
+<h3 align="left">Languages and Tools:</h3>
+
 <table align="center" style="background-color:#2e3136">
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="65" />
-      </a>
-      <br>Python
+      <div style="border: 1px solid #fff; padding: 10px; border-radius: 8px; display: inline-block;">
+        <img alt="Keras Logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/120px-Keras_logo.svg.png" 
+             decoding="async" loading="lazy" width="120" height="120" 
+             data-file-width="512" data-file-height="512" />
+      </div>
+      <br>Keras
     </td>
     <td align="center" width="96">
       <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="48" height="48" alt="Pandas" />
@@ -46,10 +50,6 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
     <td align="center" width="96">
       <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="48" height="48" alt="NumPy" />
       <br>Numpy
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Keras_logo.svg" width="48" height="48" alt="Keras" />
-      <br>Keras
     </td>
     <td align="center" width="96">
       <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="48" height="48" alt="TensorFlow" />
@@ -65,6 +65,7 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
     </td>
   </tr>
 </table>
+
 
 ## Projects
 Here are a few examples of the types of projects I've worked on:
