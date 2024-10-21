@@ -79,7 +79,7 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
       <br>scikit-learn
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=numpy" width="65" height="65" alt="NumPy" />
+      <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="65" height="65" alt="NumPy" />
       <br>Numpy
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=julia" width="65" height="65" alt="Julia" />
