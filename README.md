@@ -74,9 +74,9 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
       <img src="https://skillicons.dev/icons?i=julia" width="65" height="65" alt="Julia" />
       <br>Julia
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-      <br>HTML5
+     <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="65" height="65" alt="Selenium" />
+      <br>Selenium
     </td>
   </tr>
 </table> 
