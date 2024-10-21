@@ -41,6 +41,20 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
       <br>Python
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pandas" width="65" height="65" alt="Pandas" />
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=keras" width="65" height="65" alt="Keras" />
+      <br>Keras
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=matplotlib" width="65" height="65" alt="Matplotlib" />
+      <br>Matplotlib
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=seaborn" width="65" height="65" alt="Seaborn" />
       <br>Seaborn
     </td>
@@ -52,42 +66,21 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
       <img src="https://skillicons.dev/icons?i=streamlit" width="65" height="65" alt="Streamlit" />
       <br>Streamlit
     </td>
-  </tr>
-  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=scikit-learn" width="65" height="65" alt="scikit-learn" />
       <br>scikit-learn
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pandas" width="65" height="65" alt="Pandas" />
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="65" height="65" alt="NumPy" />
+      <img src="https://skillicons.dev/icons?i=numpy" width="65" height="65" alt="NumPy" />
       <br>Numpy
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=keras" width="65" height="65" alt="Keras" />
-      <br>Keras
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=matplotlib" width="65" height="65" alt="Matplotlib" />
-      <br>Matplotlib
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="PyTorch" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=r" width="65" height="65" alt="R" />
-      <br>R
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=julia" width="65" height="65" alt="Julia" />
-      <br>Julia
     </td>
   </tr>
 </table>
+
 
 
  
