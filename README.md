@@ -29,32 +29,35 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
 <table align="center" style="background-color:#2e3136">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="65" />
       <br>Python
-    </td>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="PyTorch" />
       <br>PyTorch
     </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="65" height="65" alt="scikit-learn" />
+      <br>scikit-learn
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TensorFlow" />
+      <br>TensorFlow
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=matplotlib" width="65" height="65" alt="Matplotlib" />
       <br>Matplotlib
+    </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=r" width="65" height="65" alt="R" />
-      <br>R
+      <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="48" height="48" alt="Pandas" />
+      <br>Pandas
     </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+      <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="65" height="65" alt="NumPy" />
+      <br>NumPy
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=seaborn" width="65" height="65" alt="Seaborn" />
       <br>Seaborn
@@ -63,37 +66,20 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
       <img src="https://skillicons.dev/icons?i=plotly" width="65" height="65" alt="Plotly" />
       <br>Plotly
     </td>
-    </td>
-     <td align="center" width="96">
-       <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="48" height="48" alt="SQL" />
-       <br>Pandas
-    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=streamlit" width="65" height="65" alt="Streamlit" />
       <br>Streamlit
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="65" height="65" alt="scikit-learn" />
-      <br>scikit-learn
-    </td>
-    </td>
-    <td align="center" width="96">
-      <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="65" height="65" alt="NumPy" />
-      <br>Numpy
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=julia" width="65" height="65" alt="Julia" />
       <br>Julia
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+      <br>HTML5
+    </td>
   </tr>
-</table>
-
-
-
- 
+</table> 
 
 
 ## Projects
