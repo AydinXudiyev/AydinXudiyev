@@ -24,55 +24,71 @@ alt="AydinXudiyev" height="30" width="40" /></a>
 ## About Me
 Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of **Data Science** for 2 years. I specialize in projects related to **Machine Learning** and **Deep Learning**. Additionally, I am involved in **Automation** and enjoy working with various libraries in this domain.
 
-## Skills
-- **Programming Languages:** 
-  - Python
-  - SQL
-  - 
 <h3 align="left">Languages and Tools:</h3>
 
 <table align="center" style="background-color:#2e3136">
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="65" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="65" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="48" height="48" alt="Pandas" />
+      <img src="https://skillicons.dev/icons?i=seaborn" width="65" height="65" alt="Seaborn" />
+      <br>Seaborn
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=plotly" width="65" height="65" alt="Plotly" />
+      <br>Plotly
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=streamlit" width="65" height="65" alt="Streamlit" />
+      <br>Streamlit
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=scikit-learn" width="65" height="65" alt="scikit-learn" />
+      <br>scikit-learn
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pandas" width="65" height="65" alt="Pandas" />
       <br>Pandas
     </td>
     <td align="center" width="96">
-      <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="48" height="48" alt="NumPy" />
+      <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="65" height="65" alt="NumPy" />
       <br>Numpy
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Keras_logo.svg" width="48" height="48" alt="Keras" />
+      <img src="https://skillicons.dev/icons?i=keras" width="65" height="65" alt="Keras" />
       <br>Keras
     </td>
     <td align="center" width="96">
-      <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <img src="https://pytorch.org/assets/images/pytorch_logo_light.svg" width="48" height="48" alt="PyTorch" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Matplotlib_logo.svg" width="48" height="48" alt="Matplotlib" />
+      <img src="https://skillicons.dev/icons?i=matplotlib" width="65" height="65" alt="Matplotlib" />
       <br>Matplotlib
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Selenium_logo.png" width="48" height="48" alt="Selenium" />
-      <br>Selenium
+      <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="PyTorch" />
+      <br>PyTorch
     </td>
     <td align="center" width="96">
-      <img src="https://www.r-project.org/logo/Rlogo.svg" width="48" height="48" alt="R" />
+      <img src="https://skillicons.dev/icons?i=r" width="65" height="65" alt="R" />
       <br>R
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=julia" width="65" height="65" alt="Julia" />
+      <br>Julia
     </td>
   </tr>
 </table>
+
 
  
 
