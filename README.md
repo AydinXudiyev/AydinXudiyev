@@ -45,8 +45,9 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
       <br>Pandas
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=keras" width="65" height="65" alt="Keras" />
-      <br>Keras
+      <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="PyTorch" />
+      <br>PyTorch
+    </td>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=matplotlib" width="65" height="65" alt="Matplotlib" />
