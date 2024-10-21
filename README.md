@@ -51,6 +51,9 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=matplotlib" width="65" height="65" alt="Matplotlib" />
       <br>Matplotlib
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=r" width="65" height="65" alt="R" />
+      <br>R
     </td>
   </tr>
   <tr>
