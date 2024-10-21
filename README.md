@@ -29,26 +29,77 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
   - Python
   - SQL
 
-- **Data Science Libraries:**
-  <div style="display: flex; align-items: center;">
-    <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" style="margin-right: 10px;"/>
-    <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" style="margin-right: 10px;"/>
-    <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib" style="margin-right: 10px;"/>
-    <img src="https://img.icons8.com/color/48/000000/seaborn.png" alt="Seaborn" style="margin-right: 10px;"/>
-    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" style="margin-right: 10px;"/>
-    <img src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras" style="margin-right: 10px;"/>
-  </div>
+<h3 align="left">Languages and Tools:</h3>
 
-- **Automation Libraries:**
-  <div style="display: flex; align-items: center;">
-    <img src="https://img.icons8.com/color/48/000000/selenium.png" alt="Selenium" style="margin-right: 10px;"/>
-    <img src="https://img.icons8.com/color/48/000000/beautiful-soup.png" alt="BeautifulSoup" style="margin-right: 10px;"/>
-  </div>
+<table align="center" style="background-color:#2e3136">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="icon" />
+       <br>React
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="60" height="65" />
+      <br>SASS
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Redux TK
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" style="background-color:#fff"/>
+      <br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="HTML5" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="css" />
+      <br>Vite
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+      <td align="center" width="96">
+        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="48" height="48" alt="SQL" />
+      <br>Pandas
+    </td>
+        <td align="center" width="96">
+        <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="48" height="48" alt="Nodejs" />
+      <br>Numpy
+      </td>
+    </td>
+ </tr>
+</table>
 
-- **Business Intelligence:**
-  <div style="display: flex; align-items: center;">
-    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" style="margin-right: 10px;"/>
-  </div>
+<br>
 
 ## Projects
 Here are a few examples of the types of projects I've worked on:
