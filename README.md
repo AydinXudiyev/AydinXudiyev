@@ -59,7 +59,7 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
       <br>NumPy
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=seaborn" width="65" height="65" alt="Seaborn" />
+      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="65" height="65" alt="Seaborn" />
       <br>Seaborn
     </td>
      <td align="center" width="96">
