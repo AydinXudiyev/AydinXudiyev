@@ -28,17 +28,16 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
 - **Programming Languages:** 
   - Python
   - SQL
+  - 
 <h3 align="left">Languages and Tools:</h3>
 
 <table align="center" style="background-color:#2e3136">
   <tr>
     <td align="center" width="96">
-      <div style="border: 1px solid #fff; padding: 10px; border-radius: 8px; display: inline-block;">
-        <img alt="Keras Logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/120px-Keras_logo.svg.png" 
-             decoding="async" loading="lazy" width="120" height="120" 
-             data-file-width="512" data-file-height="512" />
-      </div>
-      <br>Keras
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="65" />
+      </a>
+      <br>Python
     </td>
     <td align="center" width="96">
       <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="48" height="48" alt="Pandas" />
@@ -49,6 +48,10 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
       <br>Numpy
     </td>
     <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Keras_logo.svg" width="48" height="48" alt="Keras" />
+      <br>Keras
+    </td>
+    <td align="center" width="96">
       <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="48" height="48" alt="TensorFlow" />
       <br>TensorFlow
     </td>
@@ -57,24 +60,16 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
       <br>PyTorch
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/fastai/fastai/master/fastai-logo.svg" width="48" height="48" alt="Fastai" />
-      <br>Fastai
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Matplotlib_logo.svg" width="48" height="48" alt="Matplotlib" />
+      <br>Matplotlib
     </td>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Selenium_logo.png" width="48" height="48" alt="Selenium" />
       <br>Selenium
     </td>
     <td align="center" width="96">
-      <img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/beautiful_soup_logo.png" width="48" height="48" alt="BeautifulSoup" />
-      <br>BeautifulSoup
-    </td>
-    <td align="center" width="96">
       <img src="https://www.r-project.org/logo/Rlogo.svg" width="48" height="48" alt="R" />
       <br>R
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.python.org/community/logos/python-logo-master-v3-TM.png" width="48" height="48" alt="Python" />
-      <br>Python
     </td>
   </tr>
 </table>
