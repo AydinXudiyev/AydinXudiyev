@@ -82,14 +82,14 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
 </table> 
 
 p align="center">
-  <a href="https://github.com/huseynt">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AydinXudiyev&theme=merko" alt="Huseyn's GitHub streak"/>
+  <a href="https://github.com/AydinXudiyev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AydinXudiyev&theme=merko" alt="Aydin's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/huseynt">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huseynt&theme=merko" alt="Huseyn's GitHub Contribution"/>
+  <a href="https://github.com/AydinXudiyev">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AydinXudiyev&theme=merko" alt="Aydin's GitHub Contribution"/>
   </a>
 </p>
 
