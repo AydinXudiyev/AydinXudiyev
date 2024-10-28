@@ -83,7 +83,7 @@ Hi there! My name is **Aydin Khudiyev**, and I have been working in the field of
 
 p align="center">
   <a href="https://github.com/huseynt">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseynt&theme=merko" alt="Huseyn's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AydinXudiyev&theme=merko" alt="Huseyn's GitHub streak"/>
   </a>
 </p>
 
@@ -94,13 +94,13 @@ p align="center">
 </p>
 
 <p align="center"> 
-  <a href="https://github.com/huseynt"><img alt="Huseyn's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=huseynt&show_icons=true&count_private=true&theme=merko" height="192px" width="49.7%"/></a>
-  <a href="https://github.com/huseynt"><img alt="Huseyn's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=huseynt&langs_count=8&layout=compact&theme=merko" height="192px" width="max-content"/></a>
+  <a href="https://github.com/AydinXudiyev"><img alt="Aydin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AydinXudiyev&show_icons=true&count_private=true&theme=merko" height="192px" width="49.7%"/></a>
+  <a href="https://github.com/"><img alt="Aydin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AydinXudiyev&langs_count=8&layout=compact&theme=merko" height="192px" width="max-content"/></a>
 </p>
 
 
-<a align="center" href="https://github.com/huseynt">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huseynt&bg_color=0D1117&color=abd200&line=abd200&point=7F3FBF&area_color=FFFFFF&title_color=abd200&area=true">
+<a align="center" href="https://github.com/AydinXudiyev">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AydinXudiyev&bg_color=0D1117&color=abd200&line=abd200&point=7F3FBF&area_color=FFFFFF&title_color=abd200&area=true">
 </a>
 
 
