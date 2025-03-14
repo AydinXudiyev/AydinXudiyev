@@ -1,9 +1,8 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=24&pause=1000&color=AAD102&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Aydin+Khudiyev;AI&Data Science Generalist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=20&pause=1000&color=AAD102&center=true&vCenter=true&random=false&width=500&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Aydin+Khudiyev;AI+%26+Data+Science+Generalist" alt="Typing SVG" />
   </a>
 </h1>
-
 
 <h3 align="left">Connect with Me:</h3>
 <p align="center">
