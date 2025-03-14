@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Aydin Khudiyev  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sixtyfour&size=20&pause=1000&color=AAD102&center=true&vCenter=true&random=false&width=500&height=50&lines=AI+%26+Data+Science+Generalist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sixtyfour&size=20&pause=1000&color=AAD102&center=true&vCenter=true&random=false&width=500&height=50&lines=+Data+Science+Generalist)](https://git.io/typing-svg)
 
 ## Connect with Me
 <p align="left">
